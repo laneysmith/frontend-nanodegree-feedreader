@@ -1,3 +1,16 @@
+## Udacity Front-End Web Developer Nanodegree
+### Project 6 - Feedreader Testing
+
+The goal of this project is to use the Jasmine framework to write tests against a pre-existing application.
+
+#### Directions
+
+* Visit http://laneysmith.github.io/frontend-nanodegree-feedreader to see the page live.
+* In the Jasmine section at the bottom of the page, you'll see 4 suites & 10 specs that describe the tests being performed. All tests should be passing.
+* You can click the menu icon in the upper left corner to select a feed, & click article titles to
+
+-----------------------
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
